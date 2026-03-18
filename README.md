@@ -1,4 +1,4 @@
-# 📊 KNN (K-Nearest Neighbors) - Explicação Completa em Python
+# 📊 KNN (K-Nearest Neighbors) - Python
 
 Este repositório apresenta uma implementação simples do algoritmo **KNN (K-Nearest Neighbors)** utilizando Python, com visualização gráfica e explicação detalhada linha por linha.
 
